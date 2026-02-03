@@ -30,13 +30,11 @@ Aqui você encontra projetos práticos que demonstram:
 - Uso de banco de dados
 - Funcionalidades comuns do dia a dia
 
-*(Projetos demonstrativos para portfólio)*
-
 ---
 
 ## 📫 Contato
 - GitHub: https://github.com/GUIBOR-DEV  
-- Email / WhatsApp: (adicione aqui)
+- WhatsApp: 21981683047
 
 ---
 
